@@ -1,5 +1,5 @@
-# Emerging Threats IP Block on OS X 10.6 
-Darwin Kernel Version 14.5.0
+# Emerging Threats IP Block on OS X Yosemite
+v10.10.5 / Darwin Kernel Version 14.5.0
 
 ## Overview
   * [enable OS X Application Firewall in system preferences](#enable-the-os-x-application-firewall)
